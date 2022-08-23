@@ -8,7 +8,7 @@ For more info + CV check out my personal page: https://elenabernabeu.github.io/
 <picture>
   <source 
     media="(min-width: 600px)"
-    srcset="assets/img/science_banner_withperson_2.svg">
-  <img src="assets/img/science_banner_withperson_vertical_2.svg">
+    srcset="science_banner_withperson_2.svg">
+  <img src="science_banner_withperson_vertical_2.svg">
 </picture>
 </p>
